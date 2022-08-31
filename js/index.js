@@ -1,6 +1,6 @@
 
 const result = document.querySelector("#result");
-const url = "https://ilhamgurbanly10.github.io/json-placeholder/users";
+const url = "http://localhost:3000/users";
 
 // http://localhost:3000/users
 
