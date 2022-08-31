@@ -1,6 +1,8 @@
 
 const result = document.querySelector("#result");
-const url = "http://localhost:3000/users";
+const url = "https://ilhamgurbanly10.github.io/json-placeholder/users";
+
+// http://localhost:3000/users
 
 
 function requestAll() {
