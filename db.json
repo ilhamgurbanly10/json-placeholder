@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "surname": "Doe",
+      "age": "25",
+      "userId": "1"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "surname": "Doe",
+      "age": "25",
+      "userId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Ilham",
+      "surname": "Gurbanly",
+      "age": "34",
+      "userId": "3"
+    },
+    {
+      "id": 4,
+      "name": "Aysu",
+      "surname": "Gurbanly",
+      "age": "19",
+      "userId": "4"
+    },
+    {
+      "name": "Aysu",
+      "surname": "Gurbanly",
+      "age": "19",
+      "userId": 1,
+      "id": 5
+    }
+  ]
+}
